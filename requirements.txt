@@ -1,4 +1,4 @@
-weave==0.43.0
+weave==0.50.9
 anthropic==0.20.0
 ipython
 ipykernel
